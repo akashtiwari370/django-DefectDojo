@@ -729,7 +729,7 @@ body > .container {
 
 body #header form#api_selector .input a#explore:hover,
 body #header form#api_selector .input a#explore {
-    background-color: #09d !important;
+    background-color: rgba(215, 81, 19, 0.75) !important;
 }
 
 .controls ul {
@@ -1162,7 +1162,7 @@ div.custom-search-form {
 .panel-default > .panel-heading {
     color: white;
     font-size: 16px;
-    background-color: rgba(32, 166, 216, 0.75);
+    background-color: rgba(215, 81, 19, 0.75);
     border-color: #A1C0D7;
 }
 
@@ -1214,7 +1214,7 @@ div.custom-search-form {
 }
 
 .panel-footer small{
-	color: #246c91;
+	color: rgba(215, 81, 19, 0.75);
 }
 
 table#product_types .btn-success{
@@ -1288,7 +1288,7 @@ span.pull-right.clickable i.glyphicon-chevron-up, span.pull-right.clickable i.gl
   background-color: #eaedf2
 }
 .highlight_asvs_level_1 {
-  background-color: #89C4F4
+  background-color: rgba(215, 81, 19, 0.75);
 }
 
 form#quick-add-form {
@@ -1499,7 +1499,7 @@ div.tags .label {
 }
 
 .tag-version {
-    background: rgba(32, 166, 216, 0.7);
+    background: rgba(215, 81, 19, 0.75);
     border: 1px solid #fff!important;
 }
 
@@ -1588,7 +1588,7 @@ mark{
   background-color:#4CAE4C
 }
 .bg-vuln-info {
-  background-color:#357ABD
+  background-color:rgba(215, 81, 19, 0.75)
 }
 .bg-muted {
   background-color:#777
